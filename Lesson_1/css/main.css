@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+}
+h1{
+    color: aqua;
+    background: #172121;
+}
+h2{
+    color: #172121;
+    background: aqua;
+}
+p{
+    color: aliceblue;
+    background: blue;
+}
+li{
+    color: blueviolet;
+    background: black;
+}
